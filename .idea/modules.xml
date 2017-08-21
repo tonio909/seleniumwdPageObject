@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumwd.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumwd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumwd_main.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumwd_main.iml" group="seleniumwd" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumwd_test.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumwd_test.iml" group="seleniumwd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumwdpageobject.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumwdpageobject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumwdpageobject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumwdpageobject_main.iml" group="seleniumwd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumwdpageobject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumwdpageobject_test.iml" group="seleniumwd" />
     </modules>
   </component>
 </project>
